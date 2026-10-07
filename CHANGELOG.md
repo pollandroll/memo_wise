@@ -9,7 +9,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 **Gem enhancements:**
 
-- Fixed copies made with `dup` and `clone` sharing memoized results with the original object [[#403]](https://github.com/panorama-ed/memo_wise/issues/403)
+- Fixed copies made with `dup` and `clone` sharing memoized results with the original object [[#428]](https://github.com/panorama-ed/memo_wise/pull/428)
 
 _No breaking changes!_
 
